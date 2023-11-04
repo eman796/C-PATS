@@ -11,4 +11,4 @@ int main(){//Declaramos el Main
     cin>>number;// Almacenando el dato del usuario en la variable number
     cout << "El numero digitado es "+ to_string(number)<<endl;//Se puede hacer así,pero  hay otra forma
     cout<<"El numero digitado es "<<number;//Y esta es la otra forma
-}
+}//Me despierto 6 am en otro barrio un domingo, pero decime donde estas, toy en cinco
