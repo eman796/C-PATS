@@ -53,7 +53,9 @@
 			"sourceIndexes" : 
 			[
 				0,
-				1
+				1,
+				2,
+				3
 			]
 		}
 	],
@@ -91,7 +93,9 @@
 			"sourceIndexes" : 
 			[
 				0,
-				1
+				1,
+				2,
+				3
 			]
 		}
 	],
@@ -106,7 +110,19 @@
 		{
 			"backtrace" : 1,
 			"compileGroupIndex" : 0,
-			"path" : "C:/Users/emanu/CLionProjects/CppProgramacionATS/01-IntroduccionYCout&CIN/01-03 Lectura o entrada de datos.cpp",
+			"path" : "C:/Users/emanu/CLionProjects/CppProgramacionATS/01-IntroduccionYCout&CIN/CLASES/01-03 Lectura o entrada de datos.cpp",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 1,
+			"compileGroupIndex" : 0,
+			"path" : "C:/Users/emanu/CLionProjects/CppProgramacionATS/01-IntroduccionYCout&CIN/EJERCICIOS/01-01 LecturaTEclado.cpp",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 1,
+			"compileGroupIndex" : 0,
+			"path" : "C:/Users/emanu/CLionProjects/CppProgramacionATS/01-IntroduccionYCout&CIN/CLASES/01-02-DatosBasicosCpp.cpp",
 			"sourceGroupIndex" : 0
 		}
 	],

@@ -55,11 +55,23 @@ build CMakeFiles/CppProgramacionATS.dir/main.cpp.obj: CXX_COMPILER__CppProgramac
   OBJECT_DIR = CMakeFiles\CppProgramacionATS.dir
   OBJECT_FILE_DIR = CMakeFiles\CppProgramacionATS.dir
 
-build CMakeFiles/CppProgramacionATS.dir/C_/Users/emanu/CLionProjects/CppProgramacionATS/01-IntroduccionYCout&CIN/01-03_Lectura_o_entrada_de_datos.cpp.obj: CXX_COMPILER__CppProgramacionATS_unscanned_Debug C$:/Users/emanu/CLionProjects/CppProgramacionATS/01-IntroduccionYCout&CIN/01-03$ Lectura$ o$ entrada$ de$ datos.cpp || cmake_object_order_depends_target_CppProgramacionATS
-  DEP_FILE = "CMakeFiles\CppProgramacionATS.dir\C_\Users\emanu\CLionProjects\CppProgramacionATS\01-IntroduccionYCout&CIN\01-03_Lectura_o_entrada_de_datos.cpp.obj.d"
+build CMakeFiles/CppProgramacionATS.dir/C_/Users/emanu/CLionProjects/CppProgramacionATS/01-IntroduccionYCout&CIN/CLASES/01-03_Lectura_o_entrada_de_datos.cpp.obj: CXX_COMPILER__CppProgramacionATS_unscanned_Debug C$:/Users/emanu/CLionProjects/CppProgramacionATS/01-IntroduccionYCout&CIN/CLASES/01-03$ Lectura$ o$ entrada$ de$ datos.cpp || cmake_object_order_depends_target_CppProgramacionATS
+  DEP_FILE = "CMakeFiles\CppProgramacionATS.dir\C_\Users\emanu\CLionProjects\CppProgramacionATS\01-IntroduccionYCout&CIN\CLASES\01-03_Lectura_o_entrada_de_datos.cpp.obj.d"
   FLAGS = -g -fdiagnostics-color=always
   OBJECT_DIR = CMakeFiles\CppProgramacionATS.dir
-  OBJECT_FILE_DIR = "CMakeFiles\CppProgramacionATS.dir\C_\Users\emanu\CLionProjects\CppProgramacionATS\01-IntroduccionYCout&CIN"
+  OBJECT_FILE_DIR = "CMakeFiles\CppProgramacionATS.dir\C_\Users\emanu\CLionProjects\CppProgramacionATS\01-IntroduccionYCout&CIN\CLASES"
+
+build CMakeFiles/CppProgramacionATS.dir/C_/Users/emanu/CLionProjects/CppProgramacionATS/01-IntroduccionYCout&CIN/EJERCICIOS/01-01_LecturaTEclado.cpp.obj: CXX_COMPILER__CppProgramacionATS_unscanned_Debug C$:/Users/emanu/CLionProjects/CppProgramacionATS/01-IntroduccionYCout&CIN/EJERCICIOS/01-01$ LecturaTEclado.cpp || cmake_object_order_depends_target_CppProgramacionATS
+  DEP_FILE = "CMakeFiles\CppProgramacionATS.dir\C_\Users\emanu\CLionProjects\CppProgramacionATS\01-IntroduccionYCout&CIN\EJERCICIOS\01-01_LecturaTEclado.cpp.obj.d"
+  FLAGS = -g -fdiagnostics-color=always
+  OBJECT_DIR = CMakeFiles\CppProgramacionATS.dir
+  OBJECT_FILE_DIR = "CMakeFiles\CppProgramacionATS.dir\C_\Users\emanu\CLionProjects\CppProgramacionATS\01-IntroduccionYCout&CIN\EJERCICIOS"
+
+build CMakeFiles/CppProgramacionATS.dir/C_/Users/emanu/CLionProjects/CppProgramacionATS/01-IntroduccionYCout&CIN/CLASES/01-02-DatosBasicosCpp.cpp.obj: CXX_COMPILER__CppProgramacionATS_unscanned_Debug C$:/Users/emanu/CLionProjects/CppProgramacionATS/01-IntroduccionYCout&CIN/CLASES/01-02-DatosBasicosCpp.cpp || cmake_object_order_depends_target_CppProgramacionATS
+  DEP_FILE = "CMakeFiles\CppProgramacionATS.dir\C_\Users\emanu\CLionProjects\CppProgramacionATS\01-IntroduccionYCout&CIN\CLASES\01-02-DatosBasicosCpp.cpp.obj.d"
+  FLAGS = -g -fdiagnostics-color=always
+  OBJECT_DIR = CMakeFiles\CppProgramacionATS.dir
+  OBJECT_FILE_DIR = "CMakeFiles\CppProgramacionATS.dir\C_\Users\emanu\CLionProjects\CppProgramacionATS\01-IntroduccionYCout&CIN\CLASES"
 
 
 # =============================================================================
@@ -69,7 +81,7 @@ build CMakeFiles/CppProgramacionATS.dir/C_/Users/emanu/CLionProjects/CppPrograma
 #############################################
 # Link the executable CppProgramacionATS.exe
 
-build CppProgramacionATS.exe: CXX_EXECUTABLE_LINKER__CppProgramacionATS_Debug CMakeFiles/CppProgramacionATS.dir/main.cpp.obj CMakeFiles/CppProgramacionATS.dir/C_/Users/emanu/CLionProjects/CppProgramacionATS/01-IntroduccionYCout&CIN/01-03_Lectura_o_entrada_de_datos.cpp.obj
+build CppProgramacionATS.exe: CXX_EXECUTABLE_LINKER__CppProgramacionATS_Debug CMakeFiles/CppProgramacionATS.dir/main.cpp.obj CMakeFiles/CppProgramacionATS.dir/C_/Users/emanu/CLionProjects/CppProgramacionATS/01-IntroduccionYCout&CIN/CLASES/01-03_Lectura_o_entrada_de_datos.cpp.obj CMakeFiles/CppProgramacionATS.dir/C_/Users/emanu/CLionProjects/CppProgramacionATS/01-IntroduccionYCout&CIN/EJERCICIOS/01-01_LecturaTEclado.cpp.obj CMakeFiles/CppProgramacionATS.dir/C_/Users/emanu/CLionProjects/CppProgramacionATS/01-IntroduccionYCout&CIN/CLASES/01-02-DatosBasicosCpp.cpp.obj
   FLAGS = -g
   LINK_LIBRARIES = -lkernel32 -luser32 -lgdi32 -lwinspool -lshell32 -lole32 -loleaut32 -luuid -lcomdlg32 -ladvapi32
   OBJECT_DIR = CMakeFiles\CppProgramacionATS.dir
