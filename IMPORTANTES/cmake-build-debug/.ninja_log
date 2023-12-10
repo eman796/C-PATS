@@ -1,7 +1,9 @@
 # ninja log v5
 8	748	7207693863486701	CMakeFiles/CppProgramacionATS.dir/main.cpp.obj	e16bcce2386b2699
+11	899	7229175866044477	CMakeFiles/CppProgramacionATS.dir/C_/Users/emanu/CLionProjects/CppProgramacionATS/01-IntroduccionYCout&CIN/EJERCICIOS/03/01-03_DatosPersona.cpp.obj	670bc40693cf4a83
 1461	1822	7181349239087452	CppProgramacionATS.exe	4d0524da1de33365
-4	749	7207693863486701	CMakeFiles/CppProgramacionATS.dir/C_/Users/emanu/CLionProjects/CppProgramacionATS/01-IntroduccionYCout&CIN/01-03_Lectura_o_entrada_de_datos.cpp.obj	a27bc24f089f25b1
 14	1263	7218936554990750	CMakeFiles/CppProgramacionATS.dir/C_/Users/emanu/CLionProjects/CppProgramacionATS/01-IntroduccionYCout&CIN/CLASES/01-03_Lectura_o_entrada_de_datos.cpp.obj	5978d236baf2ba1b
-20	1343	7218936555774496	CMakeFiles/CppProgramacionATS.dir/C_/Users/emanu/CLionProjects/CppProgramacionATS/01-IntroduccionYCout&CIN/EJERCICIOS/01-01_LecturaTEclado.cpp.obj	c7949fa422a1d12
 23	1363	7218936556023174	CMakeFiles/CppProgramacionATS.dir/C_/Users/emanu/CLionProjects/CppProgramacionATS/01-IntroduccionYCout&CIN/CLASES/01-02-DatosBasicosCpp.cpp.obj	f77d19b6f7f601d1
+13	890	7229175865959265	CMakeFiles/CppProgramacionATS.dir/C_/Users/emanu/CLionProjects/CppProgramacionATS/01-IntroduccionYCout&CIN/EJERCICIOS/02/01-02IVA.cpp.obj	f82f54b327a64d7e
+5	525	7229177973974708	CMakeFiles/CppProgramacionATS.dir/C_/Users/emanu/CLionProjects/CppProgramacionATS/01-IntroduccionYCout&CIN/CLASES/01-01-1Programa.cpp.obj	b9e6c90cc72f4b0
+8	901	7229175866064470	CMakeFiles/CppProgramacionATS.dir/C_/Users/emanu/CLionProjects/CppProgramacionATS/01-IntroduccionYCout&CIN/EJERCICIOS/01/01-01_LecturaTEclado.cpp.obj	750644d7959c077e
